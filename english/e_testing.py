@@ -1,75 +1,37 @@
-slovar = {
-    "Attire": "наряд",
-    "Flow": "течение",
-    "Threaten": "угрожать",
-    "Occupied": "занятый",
-    "Balanced": "уравновешенный",
-    "Species": "разновидность",
-    "Enlarge": "увеличивать",
-    "Droll": "забавный",
-    "Landscape": "пейзаж",
-    "Cruel": "жестокий",
-    "Sluggish": "медлительный",
-    "Half": "половина",
-    "Evening": "вечерный",
-    "Between": "между",
-    "Climb": "взбираться",
-    "Wheel": "колесо",
-    "Shoelace": "шнурок",
-    "Overeat": "переедать",
-    "Nurse": "медсестра",
-    "Guest": "гость",
-    "Harmless": "безобидный",
-    "Awkward": "неловкий",
-    "Soothe": "успокаивать",
-    "Disappoint": "разочаровывать",
-    "Heavy": "тяжелый",
-    "Secluded": "уединенный",
-    "Wooden": "деревянный",
-    "Transmute": "превращать",
-    "Disobedient": "непослушный",
-    "Skull": "череп",
-    "Common": "общий",
-    "Wire": "проволока",
-    "Funeral": "похороны",
-    "Sibling": "кровные братья",
-    "Coffin": "гроб",
-    "Benefits": "выгоды",
-    "Advantages": "преимущества",
-    "Wraith": "призрак",
-    "Wealth": "богатство",
-    "Pervert": "извращать",
-
-
-
-}
-
+from english import e_slovar
 
 right = 0
 wrong = 0
+mistake = 0
 from random import choice
 running = 1
 while running:
-    k = [value for value in slovar.values()]
+    k = [value for value in e_slovar.slovar.values()]
     s = choice(k)
-    print(s)
+    import os
+    a = f'say {s}'
+    print(a)
+    os.system(a)
     testing = input('перевод? : ')
-    if testing in slovar:
-        value1 = slovar[testing]
+    if testing in e_slovar.slovar:
+        value1 = e_slovar.slovar[testing]
         if s == value1:
             right += 1
-            print("правильных ответов")
-            print(right)
+            print("                                                        правильных ответов")
+            print('                                                       ', right)
             print(f'правилно! {testing} означает  : ' + value1)
 
         elif s != value1:
             wrong += 1
-            print("неправильных ответов")
-            print(wrong)
+            print("                                                       неправильных ответов")
+            print('                                                       ', wrong)
             print("попробуйту еще раз!")
 
     else:
-        print(slovar.get("fwefe", "такого слова нет в словаре, попробуйту еще раз! "))
+        mistake += 1
+        print("                                                               количество не существующих слов")
+        print('                                                              ', mistake)
+        print(e_slovar.slovar.get("fwefe", "такого слова нет в словаре, попробуйту еще раз! "))
 
     if testing == "1":
         break
