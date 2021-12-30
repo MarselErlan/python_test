@@ -100,7 +100,124 @@ else: else: else: else: else: else: else: else: else: else: else: else: else: el
 else: else: else: else: else: else: else: else: else: else: else: else: else: else: else: else: else: else:
 
 
+#
 
+for for for for for for for for for for for for for for for for for for for for for for for for for for for
+for for for for for for for for for for for for for for for for for for for for for for for for for for for
+for for for for for for for for for for for for for for for for for for for for for for for for for for for
+for for for for for for for for for for for for for for for for for for for for for for for for for for for
+for for for for for for for for for for for for for for for for for for for for for for for for for for for
+for for for for for for for for for for for for for for for for for for for for for for for for for for for
+for for for for for for for for for for for for for for for for for for for for for for for for for for for
+for for for for for for for for for for for for for for for for for for for for for for for for for for for
+for for for for for for for for for for for for for for for for for for for for for for for for for for for
+for for for for for for for for for for for for for for for for for for for for for for for for for for for
+for for for for for for for for for for for for for for for for for for for for for for for for for for for
+
+
+#
+
+def def def def def def def def def def def def def def def def def def def def def def def def def def def
+def def def def def def def def def def def def def def def def def def def def def def def def def def def
+def def def def def def def def def def def def def def def def def def def def def def def def def def def
+def def def def def def def def def def def def def def def def def def def def def def def def def def def
+def def def def def def def def def def def def def def def def def def def def def def def def def def def
+def def def def def def def def def def def def def def def def def def def def def def def def def def def
+def def def def def def def def def def def def def def def def def def def def def def def def def def def
+def def def def def def def def def def def def def def def def def def def def def def def def def def def
+def def def def def def def def def def def def def def def def def def def def def def def def def def def
+def def def def def def def def def def def def def def def def def def def def def def def def def def def
+def def def def def def def def def def def def def def def def def def def def def def def def def def def
+
+
+#
+
+class class class class class class class class class class class class class class class class class class
+class class class class class class class class class class class class class class class class class class
+class class class class class class class class class class class class class class class class class class
+class class class class class class class class class class class class class class class class class class
+class class class class class class class class class class class class class class class class class class
+class class class class class class class class class class class class class class class class class class
+class class class class class class class class class class class class class class class class class class
+class class class class class class class class class class class class class class class class class class
+class class class class class class class class class class class class class class class class class class
+class class class class class class class class class class class class class class class class class class
+class class class class class class class class class class class class class class class class class class
+
+
+#
+
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in
+
+
+#
+
+int int int int int int int int int int int int int int int int int int int int int int int int int int int
+int int int int int int int int int int int int int int int int int int int int int int int int int int int
+int int int int int int int int int int int int int int int int int int int int int int int int int int int
+int int int int int int int int int int int int int int int int int int int int int int int int int int int
+int int int int int int int int int int int int int int int int int int int int int int int int int int int
+int int int int int int int int int int int int int int int int int int int int int int int int int int int
+int int int int int int int int int int int int int int int int int int int int int int int int int int int
+int int int int int int int int int int int int int int int int int int int int int int int int int int int
+int int int int int int int int int int int int int int int int int int int int int int int int int int int
+int int int int int int int int int int int int int int int int int int int int int int int int int int int
+int int int int int int int int int int int int int int int int int int int int int int int int int int int
+
+
+#
+
+str str str str str str str str str str str str str str str str str str str str str str str str str str str
+str str str str str str str str str str str str str str str str str str str str str str str str str str str
+str str str str str str str str str str str str str str str str str str str str str str str str str str str
+str str str str str str str str str str str str str str str str sts str str str str str str str str str str
+str str str str str str str str str str str str str str str str str str str str str str str str str str str
+str str str str str str str str str str str str str str str str str str str str str str str str str str str
+str str str str str str str str str str str str str str str str str str str str str str str str str str str
+str str str str str str str str str str str str str str str str str str str str str str str str str str str
+str str str str str str str str str str str str str str str str str str str str str str str str str str str
+str sts str str str str str str str str str str str str str str str str str str str str str str str str str
+str str str str str str str str str str str str str str str str str str str str str str str str str str str
+
+
+#
+
+input( input( input( input( input( input( input( input( input( input( input( input( input( input( input( input(
+input( input( input( input( input( input( input( input( input( input( input( input( input( input( input( input(
+input( input( input( input( input( input( input( input( input( input( input( input( input( input( input( input(
+input( input( input( input( input( input( input( input( input( input( input( input( input( input( input( input(
+input( input( input( input( input( input( input( input( input( input( input( input( input( input( input( input(
+input( input( input( input( input( input( input( input( input( input( input( input( input( input( input( input(
+input( input( input( input( input( input( input( input( input( input( input( input( input( input( input( input(
+input( input( input( input( input( input( input( input( input( input( input( input( input( input( input( input(
+input( input( input( input( input( input( input( input( input( input( input( input( input( input( input( input(
+input( input( input( input( input( input( input( input( input( input( input( input( input( input( input( input(
+input( input( input( input( input( input( input( input( input( input( input( input( input( input( input( input(
+
+
+#
+
+self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self.
+self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self.
+self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self.
+self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self.
+self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self.
+self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self.
+self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self.
+self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self.
+self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self.
+self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self. self.
+self. self. self. self.s
 
 
 
