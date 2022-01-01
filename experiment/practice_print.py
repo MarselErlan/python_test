@@ -292,8 +292,66 @@ bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd 
 bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd
 bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd
 bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd
-bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd
+bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd bfd
 
+
+#
+
+True True True True True True True True True True True True True True True True True True True True True True True True
+True True True True True True True True True True True True True True True True True True True True True True True True
+True True True True True True True True True True True True True True True True True True True True True True True True
+True True True True True True True True True True True True True True True True True True True True True True True True
+True True True True True True True True True True True True True True True True True True True True True True True True
+True True True True True True True True True True True True True True True True True True True True True True True True
+True True True True True True True True True True True True True True True True True True True True True True True True
+True True True True True True True True True True True True True True True True True True True True True True True True
+True True True True True True True True True True True True True True True True True True True True True True True True
+True True True True True True True True True True True True True True True True True True True True True True True True
+True True True True True True True True True True True True True True True True True True True True True True True True
+
+
+#
+
+False False False False False False False False False False False False False False False False False False False False
+False False False False False False False False False False False False False False False False False False False False
+False False False False False False False False False False False False False False False False False False False False
+False False False False False False False False False False False False False False False False False False False False
+False False False False False False False False False False False False False False False False False False False False
+False False False False False False False False False False False False False False False False False False False False
+False False False False False False False False False False False False False False False False False False False False
+False False False False False False False False False False False False False False False False False False False False
+False False False False False False False False False False False False False False False False False False False False
+False False False False False False False False False False False False False False False False False False False False
+False False False False False False False False False False False False False False False False False False False False
+
+
+#
+
+len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len(
+len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len(
+len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len(
+len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len(
+len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len(
+len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len(
+len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len(
+len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len(
+len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len(
+len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len(
+len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len( len(
+
+
+#
+
+open open open open open open open open open open open open open open open open open open open open open open open open
+open open open open open open open open open open open open open open open open open open open open open open open open
+open open open open open open open open open open open open open open open open open open open open open open open open
+open open open open open open open open open open open open open open open open open open open open open open open open
+open open open open open open open open open open open open open open open open open open open open open open open open
+open open open open open open open open open open open open open open open open open open open open open open open open
+open open open open open open open open open open open open open open open open open open open open open open open open
+open open open open open open open open open open open open open open open open open open open open open open open open
+open open open open open open open open open open open open open open open open open open open open open open open open
+open open open open open open open open open open open open
 
 
 
