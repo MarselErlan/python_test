@@ -92,15 +92,15 @@
 
 
 
-# class Person:
-#     def __init__(self, name):
-#         self.name = name
-#     def sayHi(self):
-#         print("hello! i am ", self.name)
-#
-# p = Person("Marsel")
-# p.sayHi()
-# p.sayHi()
+class Person:
+    def __A__(self, name):
+        self.name = name
+    def sayHi(self):
+        print("hello! i am ", self.name)
+
+p = Person("Marsel")
+p.sayHi()
+p.sayHi()
 
 
 
@@ -134,19 +134,75 @@
 
 
 
-class Person:
-    def __init__(self, b,  i):
-        self.i = i
-        self.b = b
-    def sayHi(self):
-        if self.b == self.i:
-            print("right")
-        else:
-            print("noo")
+# class Person:
+#     def __init__(self, b,  i):
+#         self.i = i
+#         self.b = b
+#     def sayHi(self):
+#         if self.b == self.i:
+#             print("right")
+#         else:
+#             print("noo")
+#
+# p = Person(b=10, i=int(input()))
+# p.sayHi()
 
-p = Person(b=10, i=int(input()))
-p.sayHi()
+# class Person:
+#     def __init__(self, b, a):
+#         self.b = b
+#         self.a = a
+#     def sayHi(self):
+#         self.a = 100
+#         print(self.b)
+#         print(self.a)
+#
+#
+# p = Person(b=[64, 23, 89, 6, 1, 12, 33], a=None)
+# p.sayHi()
+
+
+
+# переменные класса и обьекта
 
 
 
 
+
+# class Robot:
+#     population = 0
+#     def __init__(self, name):
+#         self.name = name
+#         print('(инициализация {0})'.format(self.name))
+#         Robot.population += 1
+#     def __del__(self):
+#         print('{0} уничтожается!'.format(self.name))
+#         Robot.population -= 1
+#         if Robot.population == 0:
+#             print('{0} был последним.'.format(self.name))
+#         else:
+#             print('осталось {0:d} работающих роботов.'.format(Robot.population))
+#
+#     def sayHi(self):
+#         print('приветствую! мои хозяева называют меня {0}.'.format(self.name))
+#
+#
+#
+# droid1 = Robot('R1-D2')
+# droid1.sayHi()
+# droid2 = Robot('C-3PO')
+# droid2.sayHi()
+# droid3 = Robot('joji_1')
+# droid3.sayHi()
+# droid4 = Robot('joji_2')
+# droid4.sayHi()
+# print("\nЗдесь роботы могут проделать какую-то работу.\n")
+# print("Роботы закончили свою работу. давайте уничтожим их.")
+# del droid1
+# del droid2
+# del droid3
+# del droid4
+
+
+
+a = True + 4
+print(a)

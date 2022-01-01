@@ -25,17 +25,7 @@
 # z.display()
 # x.display()
 #
-# class:
-#     from modulename import FirstClass
-#         class SecondClass(FirstClass):
-#         def display(self):
 #
-# import modulename
-# class SecondClass(modulename.FirstClass):
-#     def display(self):
-#
-# import person
-# x = person.person()
 #
 # class ThirdClass(SecondClass):
 #     def __init__(self, value):
@@ -55,18 +45,19 @@
 # a.mul(3)
 # print(a)
 #
-# class rec: pass
+# class res():
+#     pass
 # res.name = 'Bob'
 # res.age = 40
-# print(rec.name)
-# x = rec()
-# y = rec()
+# print(res.name)
+# x = res()
+# y = res()
 # x.name, y.name
 # x.name = 'Sue'
-# rec.name, x.name, y.name
+# res.name, x.name, y.name
 #
 # list(res.__dict__.keys())
-# list(name for name in rec.__dict__if not name.startswith('__'))
+# list(name for name in res.__dict__ if not name.startswith('__'))
 # list(x.__dict__.keys())
 # list(y.__dict__.keys())
 # x.name, x.__dict__['name']
@@ -78,32 +69,34 @@
 # def uppername(obj):
 #     return obj.name.upper()
 # uppername(x)
-# rec.method = uppername()
+# res.method = uppername()
 # x.method()
 # y.method()
-# rec.method(x)
+# res.method(x)
 # rec = ('Bob', 40.5, ['dev', 'mgr'])
 # print(rec[0])
-# rec = {}
-# rec['name'] = 'Bob'
-# rec['age'] = 40.5
-# rec['jobs'] = ['dev', 'mgr']
+# res = {}
+# res['name'] = 'Bob'
+# res['age'] = 40.5
+# res['jobs'] = ['dev', 'mgr']
 #
-# print(rec['name'])
-# class rec: pass
-# rec.name = 'Bob'
-# rec.age = 40.5
-# rec.jobs = ['dev', 'mgr']
+# print(res['name'])
+# class res:
+#     pass
+# res.name = 'Bob'
+# res.age = 40.5
+# res.jobs = ['dev', 'mgr']
 #
-# print(rec.name)
+# print(res.name)
 #
-# class rec: pass
-# pers1 = rec()
+# class res:
+#     pass
+# pers1 = res()
 # pers1.name = 'Bob'
 # pers1.jobs = ['dev', 'mgr']
 # pers1.age = 40.5
 #
-# pers2 = rec()
+# pers2 = res()
 # pers2.name = 'Sue'
 # pers2.jobs = ['dev', 'cto']
 #
@@ -116,14 +109,14 @@
 #         self.age = age
 #     def info(self):
 #         return (self.name, self.jobs)
-# rec1 = Person('Bob', ['dev', 'mgr'], 40.5)
-# rec2 = Person('Sue', ['dev', 'cto'])
+# res1 = Person('Bob', ['dev', 'mgr'], 40.5)
+# res2 = Person('Sue', ['dev', 'cto'])
 #
-# rec.jobs, rec2.info()
+# res.jobs, res2.info()
 #
-# rec = dict(name='Bob', age=40.5, jobs=['dev', 'mgr'])
-# rec = {'name': 'Bob', 'age': 40.5, 'jobs': ['dev', 'mgr']}
-# rec = Rec('Bob', 40.5, ['dev', 'mgr'])
+# res = dict(name='Bob', age=40.5, jobs=['dev', 'mgr'])
+# res = {'name': 'Bob', 'age': 40.5, 'jobs': ['dev', 'mgr']}
+# res = res('Bob', 40.5, ['dev', 'mgr'])
 #
 #
 # class Person:
@@ -164,8 +157,7 @@
 #     print(sue.name, sue.pay)
 #
 #
-# import person
-#
+# import experiment_oop_2
 #
 # name = 'Bob Smith'
 # name.split()

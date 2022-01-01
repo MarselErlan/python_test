@@ -60,9 +60,7 @@
 # input("\n нажмите enter, чтобы выйти.")
 
 
-
-#  применение конструкторов
-
+# применение конструкторов
 
 
 # class Critter():
@@ -335,51 +333,54 @@
 
 
 
-class Person(): # родительский класс
-    def __init__(self, fio): # метод-конструктор
-        self.fio = fio
-        #print("Person", self.fio, "created")
-    def __str__(self): # возвращает строку, которая
-        return self.fio # содержит значение атрибута fio
+# class Person(): # родительский класс
+#     def __init__(self, fio): # метод-конструктор
+#         self.fio = fio
+#         #print("Person", self.fio, "created")
+#     def __str__(self): # возвращает строку, которая
+#         return self.fio # содержит значение атрибута fio
+#
+#
+# class Sotrudnik(Person): # дочерний класс
+#     def __init__(self, fio, job_title): # унаследовал атрибут
+#         Person.__init__(self, fio) # родительского класса fio
+#         self.job_title = job_title
+#         print(self.job_title,"-", self.fio, "\n" )
+#     def kredit(self, client):
+#         client.dolg()
+#         print(self.fio, " оформил кредит \n")
+#     def vklad(self, client):
+#         client.dohod()
+#         print(self.fio, " оформил вклад \n ")
+#
+# class Client(Person):
+#     def __init__(self, fio, sum_vklada, sum_kr):
+#         Person.__init__(self, fio)
+#         self.sum_vklada = sum_vklada
+#         self.sum_kr = sum_kr
+#         print("Клиент:", self.fio, " Сумма кредита:", self.sum_kr,
+#             "Сумма вклада:", self.sum_vklada, "\n")
+#     def dohod(self, persent=0.03):
+#         self.sum_vklada = float(self.sum_vklada * (1 + persent))
+#     def dolg(self, persent=0.18, amount=0):
+#         self.sum_kr = float(self.sum_kr * (1 + persent))
+#         self.sum_kr -= amount
+#     def out(self):
+#         print(" Клиент:", self.fio, " Сумма долга:", self.sum_kr)
+#         print(" Клиент:", self.fio, " Доход:", self.sum_vklada)
+#
+#
+# name_s = input("Введите ФИО сотрудника:")
+# job_s = input("Введите должность:")
+# name_c = input("Введите ФИО клиента:")
+# svk = int(input("Введите сумму вклада:"))
+# skr = int(input("Введите c умму кредита:"))
+# obj1 = Sotrudnik(name_s, job_s)
+# obj2 = Client(name_c, svk, skr)
+# obj1.vklad(obj2)
+# obj1.kredit(obj2)
+# obj2.out()
+# input("\n\n Нажмите Enter чтобы выйти.")
 
 
-class Sotrudnik(Person): # дочерний класс
-    def __init__(self, fio, job_title): # унаследовал атрибут
-        Person.__init__(self, fio) # родительского класса fio
-        self.job_title = job_title
-        print(self.job_title,"-", self.fio, "\n" )
-    def kredit(self, client):
-        client.dolg()
-        print(self.fio, " оформил кредит \n")
-    def vklad(self, client):
-        client.dohod()
-        print(self.fio, " оформил вклад \n ")
 
-class Client(Person):
-    def __init__(self, fio, sum_vklada, sum_kr):
-        Person.__init__(self, fio)
-        self.sum_vklada = sum_vklada
-        self.sum_kr = sum_kr
-        print("Клиент:", self.fio, " Сумма кредита:", self.sum_kr,
-            "Сумма вклада:", self.sum_vklada, "\n")
-    def dohod(self, persent=0.03):
-        self.sum_vklada = float(self.sum_vklada * (1 + persent))
-    def dolg(self, persent=0.18, amount=0):
-        self.sum_kr = float(self.sum_kr * (1 + persent))
-        self.sum_kr -= amount
-    def out(self):
-        print(" Клиент:", self.fio, " Сумма долга:", self.sum_kr)
-        print(" Клиент:", self.fio, " Доход:", self.sum_vklada)
-
-
-name_s = input("Введите ФИО сотрудника:")
-job_s = input("Введите должность:")
-name_c = input("Введите ФИО клиента:")
-svk = int(input("Введите сумму вклада:"))
-skr = int(input("Введите c умму кредита:"))
-obj1 = Sotrudnik(name_s, job_s)
-obj2 = Client(name_c, svk, skr)
-obj1.vklad(obj2)
-obj1.kredit(obj2)
-obj2.out()
-input("\n\n Нажмите Enter чтобы выйти.")
