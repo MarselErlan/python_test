@@ -443,3 +443,123 @@
 #         print(os.system("say 'look at situation'"))
 #         break
 
+
+
+
+# data_tapes = [' hello ', 'name', 123, 5, True, False, 2.5, 3.9]
+# string = list()
+# while len(string) != 5:
+#     word = input('enter something')
+#     string.append(word)
+#     print(string)
+# #     for i in range(1, 5+1):
+# #          string.append(i)
+# print(data_tapes)
+#
+# data_tapes = ['hello', 'name', 123, 5, True, False, 2.5, 3.9]
+# string = list()
+# while len(string) != 5:
+#     word = input('enter something')
+#     string.append(word)
+#     print(string)
+# print(data_tapes)
+
+
+
+
+# data_tapes = [' hello ', 'name', 123, 5, True, False, 2.5, 3.9]
+# string = list()
+# # print(len(data_tapes))
+# for i in data_tapes:
+#     if type(i) == str:
+#         string.append(i)
+#     else:
+#         print(i)
+# print(data_tapes)
+# print(string)
+#
+# data_tapes = ['hello', 'name', 123, 5, True, False, 2.4, 3.9]
+# string = list()
+# for i in data_tapes:
+#     if type(i) == str:
+#         string.append(i)
+#     else:
+#         print(i)
+# print(data_tapes)
+# print(string)
+
+
+
+
+# data_tapes = ['hello', 'name', 123, 5, True, False, 2.4, 3.9]
+# string = list()
+# data_tapes.append(string)
+# data_tapes.extend(string)
+# data_tapes += string
+# print(data_tapes)
+# data_tapes[0] = 'good_buy'
+# string.append(data_tapes[0:4])
+# print(data_tapes[0:-1:3])
+# print(data_tapes[0:4])
+# print(data_tapes[-3])
+# data_tapes.append('ABC')
+# data_tapes.append('name')
+# data_tapes.insert(1, 25)
+# data_tapes += '100'
+# deleted_obj = data_tapes.pop(-1)
+# print(deleted_obj)
+# string.append(data_tapes.pop(-1))
+# string.append(data_tapes.pop(-2))
+#
+# data_tapes = ['hello', 'name', 123, 5, True, False, 2.4, 3.9]
+# string = list()
+# data_tapes.append(string)
+# data_tapes.extend(string)
+# data_tapes += string
+# data_tapes[0] = 'good_bay'
+# string.append(data_tapes[0:4])
+# print(data_tapes[0:-1:3])
+# print(data_tapes[0:4])
+# print(data_tapes[-3])
+# data_tapes.append('ABC')
+# data_tapes.append('name')
+# data_tapes.insert(1, 25)
+# data_tapes += '100'
+# deleted_obj = data_tapes.pop(-1)
+# print(deleted_obj)
+# string.append(data_tapes.pop(-1))
+# string.append(data_tapes.pop(-2))
+# print(data_tapes)
+# print(string)
+
+
+
+
+
+# ru = 'Белый', 'Синий', 'Красный'
+# gr = "Чёрный", "Красный", "Жёлтый"
+# ourcolors = []
+# while len(ourcolors) != 3:
+#       clrs = input('видите  цвет!')
+#       ourcolors.append(clrs)
+#       print(clrs)
+# if tuple(ourcolors) == ru:
+#       print("Это флаг России!")
+# elif tuple(ourcolors) == gr:
+#       print("Это Флаг Германии!")
+# else:
+#      print('Эти цвета не совпадают ца РФ или Германии')
+#
+# ru = 'Белый', 'Синий', 'Красный'
+# gr = "Чёрный", "Красный", "Жёлтый"
+# ourcolors = []
+# while len(ourcolors) != 3:
+#     clrs = input('видите  цвет!')
+#     ourcolors.append(clrs)
+#     print(clrs)
+# if tuple(ourcolors) == ru:
+#     print("Это флаг России!")
+# elif tuple(ourcolors) == gr:
+#     print("Это Флаг Германии!")
+# else:
+#     print('Эти цвета не совпадают ца РФ или Германии')
