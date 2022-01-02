@@ -3,18 +3,18 @@
 # listtwo = [2*i for i in listone if i > 2]
 # print(listtwo)
 
-listone = [2, 3, 4]
-listtwo = [2*i for i in listone if i > 2]
-print(listtwo)
+# listone = [2, 3, 4]
+# listtwo = [2*i for i in listone if i > 2]
+# print(listtwo)
 
 # # lambda-форма
 # points = [{'x': 2, 'y': 3}, {'x': 4, 'y': 1}]
 # points.sort(key=lambda i: i['y'])
 # print(points)
 
-points = [{'x': 2, 'y': 3}, {'x': 4, 'y': 1}]
-points.sort(key=lambda i: i['y'])
-print(points)
+# points = [{'x': 2, 'y': 3}, {'x': 4, 'y': 1}]
+# points.sort(key=lambda i: i['y'])
+# print(points)
 
 # # модуль logging
 # import os, platform, logging
@@ -33,21 +33,21 @@ print(points)
 # logging.info("какие-то действия")
 # logging.warning("программа умирает")
 
-import os, platform, logging
-if platform.platform().startswith('windows'):
-    logging_file = os.path.join(os.getenv('HOMEDRIVE'), os.getenv('HOMEPATH'), 'test.log')
-else:
-    logging_file = os.path.join(os.getenv('HOME'), 'test.log')
-print("сохраняем лог в", logging_file)
-logging.basicConfig(
-    level=logging.DEBUG,
-    format='%(asctime)s : %(levelname)s : %(message)s',
-    filename=logging_file,
-    filemode='w'
-)
-logging.debug('начало программы')
-logging.info('какие-то действия')
-logging.warning('программа умирает')
+# import os, platform, logging
+# if platform.platform().startswith('windows'):
+#     logging_file = os.path.join(os.getenv('HOMEDRIVE'), os.getenv('HOMEPATH'), 'test.log')
+# else:
+#     logging_file = os.path.join(os.getenv('HOME'), 'test.log')
+# print("сохраняем лог в", logging_file)
+# logging.basicConfig(
+#     level=logging.DEBUG,
+#     format='%(asctime)s : %(levelname)s : %(message)s',
+#     filename=logging_file,
+#     filemode='w'
+# )
+# logging.debug('начало программы')
+# logging.info('какие-то действия')
+# logging.warning('программа умирает')
 
 # # модуль sys
 # import sys, warnings
@@ -57,11 +57,11 @@ logging.warning('программа умирает')
 #     print("нормальное предложение")
 
 
-import sys, warnings
-if sys.version_info[0] < 3:
-    warnings.warn('для выполнения этой программы необходима как минимум версия python 3.0", RuntimeWarning')
-else:
-    print('нормальное предложение')
+# import sys, warnings
+# if sys.version_info[0] < 3:
+#     warnings.warn('для выполнения этой программы необходима как минимум версия python 3.0", RuntimeWarning')
+# else:
+#     print('нормальное предложение')
 
 # # оператор with
 # with open("poem.txt") as f:
@@ -90,20 +90,20 @@ else:
 #     f.close()
 #     print('(отчистка: закрытые файла)')
 
-import time
-try:
-    f = open('poem.txt')
-    while True:
-        line = f.readline()
-        if len(line) == 0:
-            break
-        print(line, end='   ')
-        time.sleep(2)
-except KeyboardInterrupt:
-    print('!! вы отменили чтение файла.')
-finally:
-    f.close()
-    print('(отчистка: закрытые файла)')
+# import time
+# try:
+#     f = open('poem.txt')
+#     while True:
+#         line = f.readline()
+#         if len(line) == 0:
+#             break
+#         print(line, end='   ')
+#         time.sleep(2)
+# except KeyboardInterrupt:
+#     print('!! вы отменили чтение файла.')
+# finally:
+#     f.close()
+#     print('(отчистка: закрытые файла)')
 
 
 
@@ -158,6 +158,18 @@ finally:
 # shoplist = pickle.load(f)
 # # загружаем обьект из файла
 # print(shoplist)
+
+
+import pickle
+shoplistfile = "shoplist.txt"
+shoplist = ['яблако', "манго", "морковь"]
+f = open("shoplistfile, 'wb")
+pickle.dump(shoplist, f)
+f.close()
+del shoplist
+f = open(shoplistfile, 'rb')
+shoplist = pickle.load(f)
+print(shoplist)
 
 
 # # файлы
