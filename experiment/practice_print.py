@@ -1,43 +1,62 @@
 # практика печатание - practice printing
 """
-import import import import import import import import import import import import import import import
-import import import import import import import import import import import import import import import
-import import import import import import import import import import import import import import import
-import import import import import import import import import import import import import import import
-import import import import import import import import import import import import import import import
-import import import import import import import import import import import import import import import
-import import import import import import import import import import import import import import import
-import import import import import import import import import import import import import import import
-import import import import import import import import import import import import import import import
-import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
+import import import import import import import import import import import import import import import import import
 #
-
-print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
-print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
-print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
-print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
-print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
-print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
-print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
-print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
-print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
-print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
-print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
-
-
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
+print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print(' print('
 #
-
-while while while while while while while while while while while while while while while while while
-while while while while while while while while while while while while while while while while while
-while while while while while while while while while while while while while while while while while
-while while while while while while while while while while while while while while while while while
-while while while while while while while while while while while while while while while while while
-while while while while while while while while while while while while while while while while while
-while while while while while while while while while while while while while while while while while
-while while while while while while while while while while while while while while while while while
-while while while while while while while while while while while while while while while while while
-while while while while while while while while while while while while while while while while while
-while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
+while while while while while while while while while while while while while while while while while while while while
 
 
 #
@@ -773,6 +792,51 @@ l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l.
 -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -=
 -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -=
 -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -= -=
+
+
+#
+
+;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{
+;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{
+;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{
+;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{
+;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{
+;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{
+;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{
+;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{
+;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{
+;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{
+;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{ ;{
+
+
+#
+
+;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;]
+;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;]
+;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;]
+;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;]
+;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;]
+;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;]
+;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;]
+;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;]
+;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;]
+;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;] ;]
+
+
+
+#
+
+;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;}
+;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;}
+;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;}
+;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;}
+;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} :} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;}
+;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;}
+;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;}
+;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;}
+;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;}
+;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;}
+;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;} ;}
 
 
 #
