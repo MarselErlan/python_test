@@ -158,18 +158,19 @@
 # shoplist = pickle.load(f)
 # # загружаем обьект из файла
 # print(shoplist)
+#
+# import pickle
+# shoplistfile = "shoplist.txt"
+# shoplist = ['яблако', "манго", "морковь"]
+# f = open("shoplistfile, 'wb")
+# pickle.dump(shoplist, f)
+# f.close()
+# del shoplist
+# f = open(shoplistfile, 'rb')
+# shoplist = pickle.load(f)
+# print(shoplist)
 
 
-import pickle
-shoplistfile = "shoplist.txt"
-shoplist = ['яблако', "манго", "морковь"]
-f = open("shoplistfile, 'wb")
-pickle.dump(shoplist, f)
-f.close()
-del shoplist
-f = open(shoplistfile, 'rb')
-shoplist = pickle.load(f)
-print(shoplist)
 
 
 # # файлы
@@ -178,7 +179,6 @@ print(shoplist)
 # если работа скучна,
 # чтобы придать ей веселый тон -
 # исполбзуй python!
-#
 # '''
 # f = open('poem.txt', 'w')
 # f.write(poem)
@@ -191,6 +191,25 @@ print(shoplist)
 #     print(line, end=' ')
 # f.close()
 #
+# poem = '''
+#  программировать весело.
+# # если работа скучна,
+# # чтобы придать ей веселый тон -
+# # исполбзуй python!
+# '''
+# f = open('poem.txt', 'w')
+# f.write(poem)
+# f.close()
+# f = open('poem.txt')
+# while True:
+#     line = f.readline()
+#     if len(line) == 0:
+#         break
+#     print(line,  end=' ')
+# f.close()
+
+
+
 
 
 # # ввод-вывод

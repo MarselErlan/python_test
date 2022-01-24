@@ -1,4 +1,4 @@
-from english import e_slovar
+from english import e_slovar63
 
 right = 0
 wrong = 0
@@ -6,15 +6,15 @@ mistake = 0
 from random import choice
 running = 1
 while running:
-    k = [value for value in e_slovar.slovar.values()]
+    k = [value for value in e_slovar63.slovar.values()]
     s = choice(k)
     import os
     a = f'say {s}'
     print(a)
     os.system(a)
     testing = input('перевод? : ')
-    if testing in e_slovar.slovar:
-        value1 = e_slovar.slovar[testing]
+    if testing in e_slovar63.slovar:
+        value1 = e_slovar63.slovar[testing]
         if s == value1:
             right += 1
             print("                                                        правильных ответов")
@@ -31,7 +31,7 @@ while running:
         mistake += 1
         print("                                                               количество не существующих слов")
         print('                                                              ', mistake)
-        print(e_slovar.slovar.get("fwefe", "такого слова нет в словаре, попробуйту еще раз! "))
+        print(e_slovar63.slovar.get("fwefe", "такого слова нет в словаре, попробуйту еще раз! "))
 
     if testing == "1":
         break
