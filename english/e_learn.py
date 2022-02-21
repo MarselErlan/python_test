@@ -1,4 +1,4 @@
-from english import e_slovar63
+from english import e_slovar63_0
 words = 0
 from random import choice
 running = 1

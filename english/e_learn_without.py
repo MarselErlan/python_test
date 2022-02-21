@@ -1,4 +1,4 @@
-from english import e_slovar23
+from english import e_slovar125
 words = 0
 from random import choice
 running = 1
@@ -20,12 +20,10 @@ while running:
 
 """
 63
-150 
-
+133
 45
 15
-32
-23
+
 
 
 """

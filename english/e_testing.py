@@ -1,4 +1,4 @@
-from english import e_slovar63
+from english import e_slovar63_0
 
 right = 0
 wrong = 0
