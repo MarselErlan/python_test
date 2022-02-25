@@ -77,7 +77,7 @@ slovar = {
     "I'm Jewish": "я иудей",
     "do you believe in God?": "ты веришь в Бога?",
     "I believe in God": "я верю в Бога",
-    "0I don't believe in God": "я не верю в Бога",
+    "I don't believe in God": "я не верю в Бога",
     "do you believe in life after death?": "ты веришь в жизнь после смерти?",
     "do you believe in reincarnation?": "ты веришь в перерождение?",
     "is there a … near here?": "здесь есть поблизости …?",

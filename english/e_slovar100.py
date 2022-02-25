@@ -57,7 +57,7 @@ slovar = {
     "the following week": "на следующей неделе",
     "the following month": "в следующем месяце",
     "the following year": "в следующем году",
-    "_I lived in Canada for six months": "я жил в Канаде шесть месяцев",
+    "I lived in Canada for six months": "я жил в Канаде шесть месяцев",
     "I've worked here for nine years": "я работаю здесь девять лет",
     "I'm going to France tomorrow for two weeks": "завтра я уезжаю во Францию на две недели",
     "we were swimming for a long time": "мы долго плавали",

@@ -1,7 +1,4 @@
 slovar = {
-    "what's the date today?": "какое сегодня число?",
-    "what's today's date?": "какое сегодня число?",
-    "15 October": "15 октября",
     "October 15": "15 октября",
     "Monday, 1 January": "понедельник, 1 января",
     "on 2 February": "2-го февраля",
@@ -31,7 +28,6 @@ slovar = {
     "it's windy": "сейчас ветренно",
     "it's foggy": "сейчас туман",
     "it's stormy": "сейчас буря",
-    "it's …": "сейчас …",
     "it's raining": "сейчас идет дождь",
     "it's hailing": "сейчас идет град",
     "it's snowing": "сейчас идет снег",
@@ -107,4 +103,8 @@ slovar = {
     "do you want to go somewhere at the weekend?": "ты хочешь куда-нибудь поехать на выходных?",
     "would you like to join me for something to eat?": "ты хочешь вместе со мной поесть?",
     "do you fancy going out tonight?": "хочешь прогуляться сегодня вечером?",
+    "what's your name?": "как тебя зовут?",
+    "my name's Chris": "меня зовут Крис",
+    "my name's Emily": "меня зовут Эмили",
+    "I'm Ben": "я Бен",
 }

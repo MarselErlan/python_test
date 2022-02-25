@@ -1,6 +1,5 @@
 slovar = {
     "what do you like doing in your spare time?": "что тебе нравится делать в свободное время?",
-    "I like …": "мне нравится ...",
     "I like watching TV": "мне нравится смотреть телевизор",
     "I like listening to music": "мне нравится слушать музыку",
     "I like walking": "мне нравится гулять",
@@ -18,7 +17,6 @@ slovar = {
     "I love going out": "я люблю тусоваться",
     "I love clubbing": "я люблю ходить в клубы",
     "I enjoy travelling": "я люблю путешествовать",
-    "I don't like …": "мне не нравятся …",
     "I don't like pubs": "мне не нравятся пабы",
     "I don't like noisy bars": "мне не нравятся шумные бары",
     "I don't like nightclubs": "мне не нравятся ночные клубы",
@@ -96,7 +94,6 @@ slovar = {
     "would you like a glass of …?": "хочешь …?",
     "would you like a glass of water?": "хочешь стакан воды?",
     "would you like a glass of orange juice?": "хочешь стакан апельсинового сока?",
-    "would you like a glass of wine?": "хочешь бокал вина?",
     "careful, the plate's very hot!": "осторожно, тарелка горячая!",
     "would you like some more?": "хочешь добавки?",
     "have you had enough to eat?": "ты наелся?",
@@ -106,4 +103,8 @@ slovar = {
     "I'm full": "я наелся",
     "that was …": "это было …",
     "that was lovely": "это было отлично",
+    "what's the date today?": "какое сегодня число?",
+    "what's today's date?": "какое сегодня число?",
+    "15 October": "15 октября",
+
 }
