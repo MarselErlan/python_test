@@ -1247,6 +1247,730 @@
     eventually eventually eventually
 
 
+    7
+
+
+    review review review
+    planning planning
+    property property
+    tomorrow tomorrow
+    presence presence presence presence presence presence presence presence presence
+    leadership leadership
+    direction direction
+    calling calling
+    welcome welcome
+    crisis crisis
+    garden garden
+    basis basis
+    justice justice justice justice justice justice justice justice justice justice justice
+    touch touch touch touch touch touch
+    park park
+    interested interested
+    mission mission mission
+    willing willing willing willing
+    memory memory memory
+    discussion discussion discussion
+    additional additional additional additional
+    authority authority authority
+    putting putting putting putting
+    worse worse worse
+    hearing hearing hearing
+    round round round round
+    strategy strategy strategy
+    rule rule rule
+    investment investment investment investment
+    measure measure measure measure measure measure measure
+    native native native native
+    highly highly highly highly highly
+    turning turning turning
+    fund fund fund
+    secret secret secret secret secret secret secret secret
+    fit fit fit fit fit fit fit fit
+    saturday saturday saturday saturday saturday saturday
+    text text text text text text
+    filled filled filled filled filled
+    instance instance instance instance instance instance instance instance instance
+    indian indian indian
+    overall overall overall overall
+    corner corner corner corner corner corner corner corner corner corner corner
+    chairman chairman chairman chairman
+    laws laws laws laws laws
+    responsibility responsibility responsibility
+    vision vision vision
+    exercise exercise exercise exercise exercise exercise exercise
+    artist artist artist artist
+    warm warm warm warm
+    trust trust trust
+    tiny tiny tiny tiny tiny tiny tiny
+    opening opening
+    forced forced forced forced forced forced forced forced
+    variety variety variety variety variety variety variety
+    september september september september september september september
+    academic academic academic academic academic academic
+    brain brain brain brain brain
+    covered covered covered covered covered covered covered
+    meaning meaning meaning meaning meaning
+    annual annual annual annual annual annual
+    weekend weekend weekend weekend weekend weekend
+    anybody anybody anybody anybody anybody
+    task task task task task task task task task task task task task task task task task
+    fighting fighting fighting fighting fighting
+    wonder wonder wonder wonder wonder
+    salt salt salt salt salt salt
+    vice vice vice vice vice vice
+    funds funds
+    camp camp camp camp camp camp camp camp
+    battle battle battle battle battle battle
+    failed failed failed failed failed failed failed failed failed
+    scale scale scale scale scale scale scale scale
+    faith faith faith faith faith faith faith faith faith faith faith faith
+    distance distance distance distance
+    foot foot foot foot foot foot
+    christmas christmas christmas christmas
+    mostly mostly mostly mostly mostly mostly mostly mostly
+    reduce reduce reduce reduce reduce
+    stone stone stone stone
+    statement statement statement statement
+    wearing wearing wearing wearing wearing
+    date date date
+    doubt doubt doubt
+    forest forest
+    closer closer closer
+    baseball baseball baseball
+    frank frank frank frank
+    unless unless unless
+    equipment equipment equipment equipment equipment
+    purpose purpose purpose purpose
+    hey hey hey hey
+    survey survey survey survey survey
+    governor governor governor governor governor
+    army army army
+    slow slow slow
+    setting
+    afraid afraid afraid
+    screen screen
+    speaking speaking
+    responsible responsible
+    shape shape shape shape shape
+    appropriate appropriate appropriate appropriate
+    version version version version
+    song song song song song
+    regular regular regular regular
+    historical historical historical
+    wonderful wonderful
+    protection protection
+    generation generation generation
+    require require require
+    moral moral moral moral
+    dry dry dry dry
+    driving driving driving driving driving
+    pull pull pull
+    wild wild wild wild wild wild wild wild wild
+    intelligence intelligence intelligence intelligence
+    prison prison prison prison prison prison
+    clothes clothes clothes
+    established established established established established
+    identity identity identity identity
+    fair fair fair
+    village village village
+    bag bag bag bag
+    keeping keeping keeping keeping
+    slightly slightly slightly slightly
+    conflict conflict conflict
+    machine machine machine machine
+    painting painting painting painting
+    noted noted noted noted
+    threat threat threat threat threat threat threat
+    guard guard guard guard guard guard
+    picked picked picked picked
+    apartment apartment apartment
+    active active active active
+    apparently
+    wood
+    quiet
+    twice
+    latest
+    river
+    shoulder
+    january
+    relatively
+    crowd
+    claim
+    progress
+    attempt
+    construction
+    spot
+    spirit
+    neighborhood
+    balance
+    snow
+    murder
+    realize
+    literature
+    developing
+    yesterday
+    host
+    benefit
+    northern
+    separate
+    educational
+    determine
+    discovered
+    opinion
+    tour
+    conversation
+    district
+    soft
+    uses
+    aid
+    bright
+    becoming
+    aware
+    decade
+    correct
+    football
+    earth
+    dangerous
+    union
+    strength
+    context
+    god
+    eastern
+    demand
+    catholic
+    importance
+    drop
+    extra
+    fully
+    writer
+    ship
+    mine
+    lawyer
+    london
+    plane
+    empty
+    heads
+    famous
+    train
+    restaurant
+    identified
+    accept
+    content
+    familiar
+    neck
+    changing
+    unit
+    alive
+    mental
+    band
+    improve
+    religion
+    domestic
+    lots
+    animal
+    sport
+    urban
+    october
+    prevent
+    gray
+    supreme
+    worst
+    cell
+    august
+    operation
+    youth
+    presidential
+    wine
+    customers
+    november
+    newspaper
+    boat
+    sugar
+    software
+    knowing
+    yellow
+    conservative
+    county
+    abuse
+    mom
+    otherwise
+
+
+
+
+
+
+
+    8
+
+
+    club club
+    van van
+    rain rain
+    editor editor
+    weather weather
+    eating eating
+    exchange exchange
+    flight flight
+    sweet sweet
+    plus plus plus
+    fourth fourth
+    damage damage
+    possibility possibility
+    suit suit
+    basically basically
+    failure failure
+    somewhere somewhere
+    increasingly increasingly increasingly
+    breath breath breath
+    democracy democracy
+    block block
+    stress stress
+    gotten gotten gotten
+    scientific scientific
+    charges charges
+    sample sample
+    contract contract
+    germany germany
+    alternative alternative
+    healthy healthy healthy healthy healthy
+    serving serving serving
+    medicine medicine
+    lights lights lights
+    corporate corporate
+    jesus jesus jesus
+    plastic plastic plastic plastic
+    path path path
+    surprise surprise surprise surprise
+    apart apart apart apart
+    regional regional regional
+    double double double
+    online online online
+    advantage advantage advantage
+    cash cash cash
+    target target target
+    title title title title
+    monday monday monday
+    helping helping helping
+    dress dress dress dress
+    concept concept concept concept
+    background background background
+    emotional emotional emotional
+    tradition tradition tradition
+    farm farm farm
+    harry harry harry harry
+    december december
+    showing showing
+    perspective perspective
+    aside aside
+    carefully  carefully carefully
+    desire desire desire desire
+    tend tend tend tend tend tend tend tend
+    happening happening happening happening
+    prime prime prime prime
+    listening listening listening
+    candidate candidate candidate
+    greatest greatest greatest
+    increasing increasing increasing increasing
+    function function function
+    mentioned mentioned mentioned mentioned mentioned
+    truck truck truck truck
+    argument argument
+    released released released released
+    strange strange strange
+    birth birth birth
+    losing losing losing losing
+    victory victory victory victory victory
+    classroom classroom classroom
+    handle handle handle handle
+    thousand thousand thousand thousand
+    impossible impossible impossible
+    ethnic ethnic ethnic ethnic
+    somehow somehow somehow
+    partner partner
+    jury jury jury jury jury jury jury jury jury jury jury jury jury jury jury jury
+    signed signed signed
+    enjoy enjoy enjoy enjoy
+    pointed pointed pointed
+    criminal criminal criminal
+    testing testing
+    advice advice advice advice
+    guide guide guide
+    thin thin thin
+    taste taste taste
+    significantly significantly significantly
+    largely largely largely
+    recognize recognize recognize recognize
+    driver driver driver driver
+    waste waste waste
+    internal internal internal
+    missing missing missing
+    anymore anymore anymore
+    island island island
+    assessment assessment
+    fellow fellow fellow fellow
+    silence silence silence silence
+    lunch lunch lunch lunch lunch lunch lunch lunch lunch
+    expensive expensive expensive expensive
+    housing housing housing housing housing
+    findings findings findings findings findings findings
+    currently currently currently
+    border border border border
+    worried worried worried worried worried worried
+    gender gender gender gender gender
+    tape tape tape tape tape
+    jr jr jr jr jr
+    owner owner owner owner owner owner
+    theater theater theater theater theater theater
+    contrast contrast contrast
+    method method
+    desk desk desk desk
+    unique unique unique unique
+    extent extent extent extent extent
+    grade grade grade grade grade grade
+    chest chest chest chest chest
+    providing providing providing
+    push push push
+    nearby nearby nearby
+    release release
+    actual actual actual
+    traffic traffic traffic
+    unlike unlike
+    selling selling selling
+    square square square square
+    ought ought ought ought ought ought ought
+    folks folks folks folks folks
+    paying paying paying
+    multiple multiple multiple
+    maintain maintain maintain
+    solution solution solution
+    comfortable comfortable
+    bus bus bus
+    fuel fuel fuel fuel fuel fuel
+    stores stores stores stores stores
+    dad dad dad
+    angry angry angry
+    obvious obvious obvious obvious
+    possibly possibly possibly
+    supply supply supply supply
+    era era era
+    novel novel novel novel
+    joining joining joining joining joining joining
+    count count count count
+    hole hole hole hole
+    shared shared shared
+    identify identify identify identify identify
+    golf golf golf golf golf golf
+
+
+
+    9
+
+
+    notice notice notice notice notice notice
+    agent agent agent agent agent agent agent
+    thick thick thick thick thick thick thick
+    tall tall tall tall tall tall tall
+    experienced experienced experienced experienced
+    pattern pattern pattern pattern pattern pattern
+    dozen dozen dozen dozen dozen dozen dozen
+    basketball basketball basketball basketball basketball
+    hall hall hall hall hall hall hall hall
+    iran iran iran iran iran iran
+    metal metal metal metal metal metal metal
+    truly truly truly truly
+    hardly hardly hardly hardly
+    shoes shoes shoes shoes
+    assistant assistant assistant assistant
+    beauty beauty beauty beauty beauty
+    singing singing singing
+    opposite opposite opposite opposite
+    ultimately ultimately ultimately ultimately
+    minister minister minister minister
+    pair pair pair pair pair pair
+    tuesday tuesday tuesday tuesday tuesday tuesday
+    frequently frequently frequently frequently frequently
+    rising rising rising rising rising rising rising
+    jewish jewish jewish jewish jewish jewish jewish
+    quarter quarter  quarter quarter
+    crazy crazy crazy crazy crazy crazy crazy crazy crazy
+    extremely extremely extremely extremely extremely
+    initial initial initial initial initial initial
+    silver silver
+    sight sight sight sight sight sight
+    equal equal equal equal equal
+    bowl bowl bowl bowl bowl bowl
+    golden golden golden
+    remove remove remove remove
+    indicated indicated
+    winning winning winning
+    bigger bigger
+    favor favor favor favor favor favor favor
+    beneath beneath beneath beneath
+    respond respond respond
+    nose nose nose nose
+    coverage coverage coverage coverage coverage coverage coverage coverage
+    trail trail trail trail trail trail trail trail trail
+    ourselves
+    highest
+    beside
+    ancient
+    reaction
+    recognized
+    score
+    flat
+    accepted
+    woods
+    affect
+    expression
+    gain
+    meanwhile
+    prior prior
+    honor
+    contemporary
+    typical
+    parent
+    promise
+    forth
+    talks
+    opposition opposition
+    miss miss
+    emergency emergency
+    bridge bridge
+    sir sir
+    committed committed
+    storm storm
+    commitment commitment
+    aids aids
+    pool pool
+    relief relief relief
+    hi hi hi
+    consumer consumer
+    funny funny funny
+    gore gore gore gore
+    welfare welfare welfare
+    industrial industrial industrial
+    somewhat somewhat
+    telephone telephone
+    paint paint paint
+    drinking drinking
+    connection connection
+    faculty faculty faculty
+    capacity capacity
+    shift shift
+    estate estate estate
+    anywhere anywhere
+    comment comment
+    exist exist exist exist
+    entirely entirely entirely entirely entirely entirely entirely entirely
+    essential essential essential
+    roll roll roll
+    soil soil soil soil soil soil
+    post post post post
+    specifically specifically
+    describe describe
+    league league league
+    fashion fashion fashion
+    confidence confidence confidence
+    liberal liberal
+    enter enter
+    treated treated
+    plenty plenty plenty plenty plenty
+    february february
+    regarding regarding regarding regarding regarding regarding regarding regarding regarding regarding regarding
+    surgery surgery surgery surgery
+    jordan jordan jordan
+    museum museum museum
+    tired tired
+    gay gay gay
+    studio studio studio
+    broad broad broad
+    leg leg leg leg
+    completed completed completed
+    passing passing passing
+    match match
+    usual usual usual usual
+    facing facing facing
+    totally totally totally
+    meat meat meat meat
+    barely barely barely barely barely barely
+    reporter reporter
+    attitude attitude attitude attitude
+    bird bird bird bird bird
+    adds adds
+    fill fill
+    legislation legislation
+    mention mention
+    definitely definitely definitely
+    fishing fishing
+    killing killing
+    rural  rural rural rural rural
+    grant grant grant grant
+    cream cream cream cream
+    represent represent represent represent represent represent represent represent represent represent
+    rare rare rare rare rare rare rare rare rare rare rare rare rare rare rare rare rare rare rare rare
+    dealing dealing dealing dealing dealing dealing dealing dealing dealing dealing dealing dealing dealing
+    buying buying buying buying buying buying buying buying
+    carrying carrying
+    visual visual
+    introduced introduced
+    tight tight tight tight
+    typically typically
+    seriously seriously
+    argue argue argue argue
+    mix mix mix
+    charged charged
+    reduced reduced
+    master master
+    beach beach
+    communication communication
+    towards towards
+    owners owners
+    authorities authorities
+    funding funding
+    location location
+    useful useful useful
+    upper upper upper
+    cross cross
+    object object
+    map map
+    gift gift gift
+    paris paris
+    circle circle
+    everywhere everywhere
+    thursday thursday
+    smart smart
+    seeking seeking
+    frame frame frame frame frame
+    musical musical
+    headed headed
+    lady lady
+    facts facts
+    danger danger
+    busy busy
+    planet planet
+    leads leads
+    circumstances circumstances
+    applied applied applied
+    minority minority
+    solid solid
+    hill hill
+    careful careful
+    core core
+    merely merely
+    medium medium
+    percentage percentage
+    massive massive
+    bedroom bedroom
+    flying flying
+    airport airport
+    vast vast vast
+    estimated estimated
+    giant giant
+    laugh laugh
+    falling falling
+    agents agents
+    creative creative
+    twenty twenty
+    operating operating
+    removed removed
+    display display
+    length length
+    package package
+    cooking cooking
+    apply apply
+    pepper pepper pepper
+    technical technical
+    relative relative
+    teeth teeth
+    unfortunately unfortunately
+    notion notion notion
+    observed observed
+    intended intended intended
+    assistance assistance
+    panel panel
+    offering offering offering
+    jerry jerry jerry
+    proud proud
+    mayor mayor
+    illegal illegal
+    armed armed
+    sharp sharp sharp
+    ocean ocean
+    debt debt
+    code code
+    combined combined
+    manner manner
+    orange orange
+    spiritual spiritual
+    drawing drawing
+    participation participation
+    pat pat
+    expert expert
+    closely closely
+    stepped stepped
+    virtually virtually
+    beer beer
+    steel steel
+    existing existing
+    consequences consequences
+    lying lying lying
+
+
+
+
+    10
+
+
+
+
+
+brief distribution techniques accounts bell climate cheese shirt perceived forever helloo unusual pleasure engine proper
+option organized mirror association narrow wednesday anger joint depression primarily represented falls grand plate
+comnination elected appeal net vietnam refused occur wave jersey limits besides transfer silent cutting formed  firms
+shopping sudden courses indicate regime vehicle selected opposed limit christ chemical marketing ray spanish cable
+consistent afford dressed dust curriculum advanced appearance ill motion grall alcohol desert pocket perform treat
+document self reporting adding coast dramatic fruit temperature abortion childhood indtruction acting hidded widely
+mixed victim moreover universeformal magic rush finger grace achievement bread graduate lucky regard wxpressed deeply
+existence ensure velief parking sale division raising pan council retired unable classic amazing ear violent facilities
+extended principal file appreciate racial wer conduct co resolution immediate downtown psychological intervention escape
+fairly reflect pacific glad resistance route clip creation involvement suffering feature gaced tested photo practical
+engineering advance noise conclusion correspondent blame affected numerous survive habging sad independence xome actor
+dean   tone row assume digital considering people time  now back most good year day world little life man state school
+home children percent part president family place today thing goverment house public night national country money kind
+water point room head mother million case group system fact number course woman hand young face father week business
+sure company power information program question health side city problem research war others story education job morning
+history job morning history top example adder alligator alpaca (american black bear) anaconda ant anteater antelope
+ape
+
+250-----11
+
+brief distrivution techniques accounts bell climate cheese shirt perceived forever hello unusual pleasure engine proper
+option prganixed mirror association narrow wednesday anger joint primarily represented falls grand plate elected appeal
+ner vietnam refused occur wave jersey limits besides  transfer silent cutting formed shopping sudden courses indicate
+opposed limit christ chemical marketing ray spanish canle consistent afford dressed dust cutticulum advasnced ill motion
+alcohol desedt pocket perform treat document soast fruit temperatura abortion childhood instruction hidden widely mixed
+moreover universe formal rush grace achievement bread graduate lucky regard expressed deeply existence ensure belief
+parking sale division raising pan souncil retired unable classic amazing ear voilent facilities extended principal file
+appreciate racial wet conduct resolution immediate downtopn psychological intervention escape fairly reflect pacific
+glad resistance route clip creation incolvement suffering feature faced tested photo practical engineering advance noese
+conslusion correspondent blame affected numerous survive hanging sad independence zone actor dean tone row assume
+digital consideting popple time back most good year day world little life tate school home children percent president
+family place today government house public night national country money kidnd water point roop head mother million case
+group systrm fact number course woman hand young face father business sure information program question health sede city
+ressearch war others story education history ezample adder alligator alpaca american black bear ant antreater antelope
+ape
+
+188-------21
+
+
+
+
+
+
+
+
+
 
 
 
