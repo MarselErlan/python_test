@@ -1,9 +1,9 @@
-from english import e_method_10
+from english import e_method_13
 from random import choice
 words = 0
 running = 1
 while running:
-    e_for_choice = choice(list(e_method_10.slovar.items()))
+    e_for_choice = choice(list(e_method_13.slovar.items()))
     enter2 = f'                                                       {e_for_choice[0]} * {e_for_choice[1]}'
     enter = input(enter2)
     if enter2 == enter:
@@ -30,10 +30,10 @@ while running:
 250_7----30+30+30+12+30
 200_8----30+30+30+30
 250_9----40+40+40
-250_10---
+250_10---100+41+31+30+100
 250_11---
-250_12---
-250_13---
+250_12---100+40+40+40+40+40+40+40+40
+250_13---41+40+40+40+40
 250_14---
 250_15---
 

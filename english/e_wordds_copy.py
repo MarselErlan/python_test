@@ -1963,6 +1963,187 @@ ape
 
 188-------21
 
+brief brief brief brief brief brief distribution techniques accounts bell climate cheese perceived forever engine propwe
+option organized mirror associaton narrow wednesday anger joint primarily represented falls grand plate elected appeal
+vietnam refused occur jersey limits besides transger silent cutting formed sudden sourses indicate vehicle selected
+opposed limit christ chemical ray spanish cable consistent afford sust curricalum advanced appearance ill motion alcohol
+desert pocket perform treat document coast temperature abortion childhook instruction hidden widely mixed moreover
+universe formal rush grace achiesvement graduate lucky regard expressed deeply existence ensure parking sale division
+raising wet conduct resolution immediate psychological intervention escape fairly pacific glad resistance route clip
+ctearion involvement suffering feature faced tested practical engineeting advance noise conclusion corresponfdent blame
+affected numerous survive ganging independence dean tone row assume digital considering people time most good year day
+world little life home persent president family place today house public natinal country maney kind point hiad mother
+million scse system numver sourse hand yiung face father business sure information question health research war others
+storey educario example adder alligator alpace american black bear anteater amtelope
+
+188-----21
+
+
+
+
+11
+
+
+
+
+
+arctic fox arctic fox arctic fox arctic fox arctic fox
+asp asp asp asp asp asp asp asp asp asp asp asp
+aurochs aurochs aurochs aurochs aurochs aurochs aurochs aurochs
+baboon baboon baboon baboon baboon baboon
+badger badger badger badger badfer badge badber badger badger
+bat bat bat bat bat bat
+beaver beaver beaver beaver beaver beaver beaver
+bee bee bee bee bee bee bee bee bee bee
+beetle beetle beetle beetle beetle beetle
+billy goat billy goat billy goat
+bison bison bison bison boson bison
+blackbird blackbird
+boa boa boa boa boa boa boa boa boa boa boa oa boa boa
+boar boar boar boar boar boar boar boar boar
+budgie budgie bufgie budgie budgie budgie budgie
+bug bug bug bug bug bug bug bug bug bug
+bull bull bull bull bull bull bull
+butterfly butterfly buttergly butterfly butterfly
+buzzard buzzard buzzard buzzard
+calf calf calf calf calf calf calf
+camel camel camel camel
+canary canary canary canary canary
+cat cat cat cat cat cat cat
+caterpillar caterpillat caterpillar caterpillar
+cavy cavy cavy cavy cavy cavy cavy cavy
+cayman cayman caman cayman cayman
+chameleon chameleon
+chamois chamois chamois chamois chamois chamois
+cheetah cheetah cheetah cheetah cheetah cheetah
+chicken chicken chicken chicken chicken
+chimpanzee chimpanzee chimpanzee chimpanzee
+chinchilla chinchilla chinchilla chinchilla chinchilla
+chipmunk chipmunk chipmunk
+cobra cobra cobra
+cock cock cock cock cock
+cockroach cockroach cockroach cockroach cockroach
+coon coon coon coon coon
+cougar  cougar cougar cougar cougar cougar
+coyote coyote coyote coyote
+crane crane crane crane crane crane crane
+crawfish crawfish crawfish crawfish
+crayfish srayfish crayfish crayfish
+crocodile crocodile
+cuckoo cuckoo cuckoo cuckoo cuckoo
+deer deer deer
+desman desman desman desman desman desman desman desman desman
+dingo dingo dingo dingo dingo dingo dingo
+dinosaur dinosaur dinosaur
+dog dog dog dog dog dog dog
+dogfish dogfish dogfish
+donkey donkey donkey donkey donkey donkey
+duck duck duck duck
+duckbill duckbill
+eagle eagle eagle eagle eagle eagle eagle eagle eagle
+echidna echidna echidna ichedna ichidna echidna
+elephant elephant elephant elephant elephant elephant
+elk elk elk elk elk elk elk elk elk
+falcon falcon falcon falcon falcon
+fallow-deer fallow deer
+ferret ferret ferret ferret ferret ferret ferret ferret
+flamingo flamingo flamingo flaming flamingo
+fox fox fox fox fox fox fox fox fox
+frog frog frog frog frog frog frog frog fgor
+gazelle gazelle gazelle gazelle
+gecko gecko gocko gecko
+gibbon gibbon gibbon gibbon gibbon
+giraffe giraffe giraffe giraffe giraffe
+glutton glutton glutton glutton glutton glutton glutton glutton glutton glutton
+gnat gnat gnat gnat gnat gnat gnat gnat gnat gnat
+gnu gnu gnu gnu gnu
+goat goat goat goat goat goat
+goose goose goose goose goose
+gorilla gorella gorilla forilla
+grass snake grass snake frass snake grass snake
+grasshopper grasshopper grasshopper
+grizzly grizzly grizzly grizzly frizzly grizzly
+ground squirrel  ground squirrel ground squirrel ground squirrel
+guinea pig guinea pig guinea pig guinea pig guinea pig guinea pig guinea pig guiea pig
+hamster hamster hamster hamster hamster hamster
+hare hare hare hare hare hare hare hare hare
+hawk hawk hawk hawk hawk hawk
+hedgehog hedgehog hedgehog
+hen hen hen hen hen hen hen
+heron heron heron heron heron heron
+hog hog hog hog hog hog hog hog
+hyena hyena hyena hyena
+iguana iguana iguana iguana
+jaguar jaguar jaguar
+kangaroo kangaroo kangaroo kangaroo kangaroo kangaroo kangaroo
+kid kid kid kid kid kid kid kid kid kid kid kid kid kid kid kid kid
+kitten kitten kitten kitten kitten kitten kitten kitten kitten kitten
+koala koala koala koala koala koala koala
+ladybird ladybird ladybird ladybird
+lama lama lama lama lama lama lama
+lamb lamb lamb lamb lamb lamb lamb lamb lamb lamb
+lark lark lark lark lark lark lark lark lark
+least weasel least weasel least weasel
+leech leech leech leech leech leech
+lemming lemming lemming lemming lemming
+lemur lemur lemur lemur lemur lemur lemur lemur lemur lemur lemur lemur
+leopard peopard leopard leopard leopard leopard
+lion lion lion lion
+lizard lizard lizard lizard lizard lizard
+lobster lobster lobster lobster lobster
+lynx lynx lynx lynx lynx lynx lynx lynx lynx lynx lynx lynx lynx
+macaque macaque macaque macaque
+magpie magpie magpie magpie mapgpie magpie magpie
+mallard mallard mallard mallard mallard mallard mallard
+mammoth mammoth mammoth
+manatee manatee manatee manatee manatee manatee manatee manatee
+mandrill mandrill mandrill mandrill mandrill mandrill mandrill
+marmoset marmoset marmoset marmoset marmoset
+marmot marmot matmot marmot marmot marmot marmot maormot marmot marmot
+marten marten marten marten marten marten marten marten
+mole mole mole mole mole mole mole mole mole mole
+mollusc mollusc mollusc mollusc mollusc mollusc
+mongoose mongoose mongoose mongoose mongoose
+monitor lizard monitor lizard monitor lizard
+monkey monkey monkye
+moose moose moose
+moth moth moth moth moth moth
+mouse mouse mose mose mouse mouse mouse mouse mouse mouse
+muskrat muskrat muskrat muskrat
+musquash musquash
+nanny goat mammy goat
+narwhal narwhal narwhal narwhal narwhal
+nightingale nightingale
+nutria nutria
+octopus octopus octopus
+okapi okapi okapi okapi
+opossum opossum opossum
+ostrich ostrich ostrich
+otter otter otter otter
+owl owl owl owl
+ox ox ox ox ox ox ox ox ox
+panther panther panther
+partridge partridge partridge partridge
+peacock peacock peacock peacock peacock
+penguin penguin penguin
+pheasant pheasant
+pig pig pig pig pig
+pigeon pigeon dove dove
+platypus platypus platypus
+polar bear polar bear polar bear  polar bear
+polar fox polar fox
+polecat polecat polecat
+polecat polecat polecat polecat polecat
+pony pony pony pony pony pony pony
+porcupine porcupine porcupine  porcupine porcupine
+puma puma puma puma puma puma puma puma
+puppy puppy puppy puppy puppy
+rabbit rabbit rabbit rabbit rabbit rabbit
+raccoon raccoon
+
+
+
+
 
 
 

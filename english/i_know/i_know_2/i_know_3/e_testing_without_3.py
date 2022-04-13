@@ -17,6 +17,11 @@ while running:
             common += 1
             print(f"                           правильные  {right}   неправильные  {wrong}   нет таких слов  {mistake}")
             print(f'правилно! {testing} означает  : ' + value1)
+
+            with open(r'/Users/macbookpro/PycharmProjects/python_test/english/i_know/i_know_2/e_i_know_2.py',
+                      'a') as f:
+                f.write(f'#"{testing}": "{value1}",\n')
+                f.close()
             print("  \n  ")
 
         elif s != value1:
@@ -53,5 +58,7 @@ while running:
 47-1-15
 18-0-8
 7-0-4
+30-0-6
+12.04}  70-0-4[10] + 60-0-12[7]
 
 """
