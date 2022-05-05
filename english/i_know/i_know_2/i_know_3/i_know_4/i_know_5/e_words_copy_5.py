@@ -18,6 +18,6 @@ while running:
         print("                                                                                              error !!!")
 #  нажми в терминале --> enter
 """
-
+27.04} + 51[]
 
 """

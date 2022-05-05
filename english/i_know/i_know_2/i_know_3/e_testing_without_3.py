@@ -20,8 +20,9 @@ while running:
 
             with open(r'/Users/macbookpro/PycharmProjects/python_test/english/i_know/i_know_2/e_i_know_2.py',
                       'a') as f:
-                f.write(f'#"{testing}": "{value1}",\n')
+                f.write(f'#    "{testing}": "{value1}",\n')
                 f.close()
+                e_i_know_2.slovar.pop(testing)
             print("  \n  ")
 
         elif s != value1:
@@ -41,14 +42,13 @@ while running:
         print(d)
         print("  \n  ")
 
-    if testing == "1":
-        break
+
 
 """
 100-4-18
 107-6-25
 113-3-15
-155-6-39
+155-6-39--
 127-3-31
 37-1-13
 30-2-8
@@ -59,6 +59,11 @@ while running:
 18-0-8
 7-0-4
 30-0-6
-12.04}  70-0-4[10] + 60-0-12[7]
+12.04} + 70-0-4[10] + 60-0-12[7]
+15.04} + 60-0-10[8]
+16.04} + 50-2-13[07] + 46-2-8[5]
+19.04} + 26-0-8[]
+20.04} + 28-0-7[]
+22.04} + 27-0-8[]
 
 """

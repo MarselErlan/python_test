@@ -19,8 +19,9 @@ while running:
             print(f'правилно! {testing} означает  : ' + value1)
             with open(r'/Users/macbookpro/PycharmProjects/python_test/english/i_know/e_i_know_1.py',
                       'a') as f:
-                f.write(f'#"{testing}": "{value1}",\n')
+                f.write(f'#    "{testing}": "{value1}",\n')
                 f.close()
+            e_i_know_1.slovar.pop(testing)
             print("  \n  ")
 
         elif s != value1:
@@ -40,8 +41,8 @@ while running:
         print(d)
         print("  \n  ")
 
-    if testing == "1":
-        break
+
+
 
 
 
@@ -64,6 +65,14 @@ while running:
 101-10-126
 67-6-122
 37-5-67
-
+13.04} + 30[7] +30[22] 
+14.04} + 40[] 
+15.04} + 65[12] + 30-0-24[6]  + 50-0-20[] + 25-1-3[] 30-0-7[]
+16.04} + 30-0-104[] 37-1-38
+18.04} +  23-0-55[]
+19.04} + 20-0-22[]
+22.04} + 19-3-26[]
+23.04} + 24-0-43[]
+25.04} + 14-1-22[]
 
 """

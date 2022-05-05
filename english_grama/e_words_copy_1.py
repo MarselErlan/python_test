@@ -1,9 +1,9 @@
-from english.i_know import e_i_know_1
+import e_slovar100
 from random import choice
 words = 0
 running = 1
 while running:
-    e_for_choice = choice(list(e_i_know_1.slovar.items()))
+    e_for_choice = choice(list(e_slovar100.slovar.items()))
     enter2 = f'                                                           *                    {e_for_choice[0]}  \n'
     enter3 = (e_for_choice[0])
     enter = input(enter2)
@@ -18,12 +18,5 @@ while running:
         print("                                                                                              error !!!")
 #  нажми в терминале --> enter
 """
-13.04.} + 100[14]
-15.04} +  100[] + 60[5] + 200[] + 30[] + 40[]
-16.04} + 80[]
-18.04} + 75[] + 155[]
-19.04} + 60[]
-22.04} + 101[]
-23.04} + 81[] + 
-25.04} + 80[]
+30.04} + 51
 """
