@@ -1,27 +1,32 @@
-from english_grama import e_slovar100
+from English_yg2.book_1 import dictionary_words
 from random import choice
 words = 0
 running = 1
 while running:
-    e_for_choice = choice(list(e_slovar100.slovar.items()))
+    e_for_choice = choice(list(dictionary_words.slovar.items()))
     enter2 = f'                                                       {e_for_choice[0]} * {e_for_choice[1]}   '
     enter3 = (e_for_choice[0])
     enter = input(enter2)
     if enter3 == enter:
+        pass
         words += 1
         print('                                         ', words)
-        with open(r'/Users/macbookpro/PycharmProjects/python_test/english_grama/e_slovar100.py',
+        with open(r'/english/i_know/e_i_know_1.py',
                   'a') as f:
             f.write(f'#    "{e_for_choice[0]}": "{e_for_choice[1]}",\n')
             f.close()
-        e_slovar100.slovar.pop(e_for_choice[0])
-        print("  \n  ")
+            dictionary_words.slovar.pop(e_for_choice[0])
 
     elif enter == "1":
         pass
     else:
         print("error !!!")
-
+        with open(r'/English_yg2/book_1/dictionary_words.py',
+                  'a') as f:
+            f.write(f'#    "{e_for_choice[0]}": "{e_for_choice[1]}",\n')
+            f.close()
+        dictionary_words.slovar.pop(e_for_choice[0])
+        print("  \n  ")
 #  нажми в терминале --> enter
 
 
@@ -29,7 +34,8 @@ while running:
 
 """
 
-10.10} -230
+14.09} +
+
 
 
 """
